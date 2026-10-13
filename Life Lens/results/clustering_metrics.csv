@@ -1,0 +1,5 @@
+Algorithm,Number of clusters,Silhouette Score (higher is better),Davies-Bouldin Index (lower is better),Calinski-Harabasz Index (higher is better)
+Agglomerative (complete),3,0.7156992502356372,0.6617915057345942,245.72513017742773
+Agglomerative (average),3,0.710987661492364,0.678339338824366,248.97034581021353
+K-Means,3,0.2411783691422108,1.4296935016600376,638.9558128880229
+Agglomerative (ward),3,0.22194881802474475,1.4505809105442617,584.3582395061017
